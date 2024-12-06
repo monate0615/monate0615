@@ -11,4 +11,4 @@ Mail: monate615@gmail.com
 <br/>
 <br/>
 <h2>ComfyUI API Integration Demos</h2>
-![VTON ComfyUI API Integration](https://github.com/monate0615/monate0615/blob/main/vton.gif)
+<img src="https://github.com/monate0615/monate0615/blob/main/vton.gif" alt="VTON">
