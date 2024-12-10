@@ -13,17 +13,29 @@ Mail: monate615@gmail.com
 <br/>
 <h2>My Services</h2>
 - Create and evolve the overall software architecture, ensuring scalability, performance, and security
+<br/>
 - Create and maintain the software architecture, handles complex design matters, collaborates with the management, select the right development tools and technologies, and assists development teams with implementation
+<br/>
 - Determine the appropriate technology stack, frameworks, and tools, considering the company's needs and future scalability
+<br/>
 - Design, implement, and oversee a microservices-based architecture, ensuring that services are loosely coupled, independently deployable, and scalable
+<br/>
 - Actively participate in coding, particularly in critical areas, ensuring adherence to architectural standards and best practices
+<br/>
 - Lead or contribute to the development of complex Fullstack and AI software, focusing on maintainability and performance
+<br/>
 - Rapidly prototype and validate architectural solutions to ensure feasibility and alignment with business goals
+<br/>
 - Design and implement containerization strategies consistently across environments using Docker for developing, shipping, and running applications
+<br/>
 - Deploy, manage, and scale applications using Kubernetes, to ensure high availability and efficient resource utilization
+<br/>
 - Design cloud architecture and deploy scalable applications with elaborate CI/CD pipelines on AWS, Azure, GCP or other could platforms that are leveraging services including but not limited to EC2, S3, RDS, Lambda, Lightsail, CDN, WAF, CloudFont, Blob storage, VMs, AKS, GCS, GAE, GKE, GCE, Firebase, IAP and so on
+<br/>
 - Implement infrastructure as code using tools such as Terraform or AWS CloudFormation to automate the deployment of cloud resources
+<br/>
 - Ensure that the architecture meets security best practices and compliance requirements, including data encryption, access controls, and secure configurations
+<br/>
 - Work closely with other architects, developers, product managers, and operations teams to ensure alignment on technical strategies and objectives
 <br/>
 <br/>
