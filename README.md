@@ -1,4 +1,4 @@
-<h1>Generative AI Service SaaS Platform Developer</h1>
+<h1>Software Architecture</h1>
 
 Contact Info:
 <br/>
@@ -8,8 +8,8 @@ Skype: live:.cid.d7d124c8ec827d03
 <br/>
 Mail: monate615@gmail.com
 <br/>
-<a href="http://ec2-3-137-165-184.us-east-2.compute.amazonaws.com">Visit Portfolio Site</a>
-
+<br/>
+<a href="http://ec2-3-137-165-184.us-east-2.compute.amazonaws.com">Visit portfolio site</a>
 <br/>
 <br/>
 <h2>ComfyUI API Integration Demos</h2>
