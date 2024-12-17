@@ -32,6 +32,6 @@
 |                                                                                      |                                                                                       |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |**Kolor + CatVTON**                                                                   |**Samaritan 3D Cartoon**                                                               |
-|![Kolor + CatVTON](https://github.com/user-attachments/assets/ffa3b619-83c3-40c6-9731-5de823ad1249)|![Samaritan 3D Cartoon](https://github.com/user-attachments/assets/a2a50445-96f5-467f-b76c-2cce726be6d5)|
+|https://github.com/user-attachments/assets/154ae974-1c94-486b-933b-35530c923aec|https://github.com/user-attachments/assets/fe59d94b-18ba-4880-bfa0-5254e611aa41|
 |**MimicMotion**                                                                       |                                                                                       |
-|![MimicMotion](https://github.com/user-attachments/assets/e77b4589-fa4f-4c0a-94f6-506bbd49b0e4)| |
+|https://github.com/user-attachments/assets/84c01cf2-4a10-49f3-9b4c-41e1c7115814| |
