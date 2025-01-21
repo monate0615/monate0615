@@ -22,8 +22,8 @@
 - Deploy, manage, and scale applications using Kubernetes to ensure high availability and efficient resource utilization.  
 - Design cloud architecture and deploy scalable applications with CI/CD pipelines on AWS, Azure, GCP, or other cloud platforms leveraging services like EC2, S3, RDS, Lambda, Lightsail, CDN, WAF, CloudFront, Blob Storage, VMs, AKS, GCS, GAE, GKE, GCE, Firebase, IAP, and more.  
 - Implement infrastructure as code using tools like Terraform or AWS CloudFormation to automate the deployment of cloud resources.  
-- Ensure security** best practices and compliance requirements, including data encryption, access controls, and secure configurations.  
-- Collaborate** closely with architects, developers, product managers, and operations teams to align on technical strategies and objectives.
+- Ensure security best practices and compliance requirements, including data encryption, access controls, and secure configurations.  
+- Collaborate closely with architects, developers, product managers, and operations teams to align on technical strategies and objectives.
 
 ---
 
