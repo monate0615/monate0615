@@ -1,8 +1,4 @@
-# Software Architecture
-
-**Contact Info:**  
-**Skype:** live:.cid.d7d124c8ec827d03  
-**Mail:** monate615@gmail.com
+# Software Engineer
 
 ---
 
@@ -15,6 +11,9 @@ I’m a 𝗦𝗲𝗻𝗶𝗼𝗿 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗘𝗻𝗴�
 ✅ AI & ML Integration – Custom AI-powered solutions, automation, and predictive analytics<br />
 ✅ Cloud & DevOps – Optimized deployment strategies with AWS, GCP, and Azure<br />
 ✅ E-commerce & Fintech Solutions – Secure payment gateway integration and AI-driven trading models<br />
+
+**Contact Info:**  
+**Skype:** live:.cid.d7d124c8ec827d03  
 
 ---
 
