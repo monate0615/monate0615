@@ -2,9 +2,7 @@
 
 **Contact Info:**  
 **Skype:** live:.cid.d7d124c8ec827d03  
-**Mail:** monate615@gmail.com  
-
-[Visit portfolio site](http://v1.monate.site)
+**Mail:** monate615@gmail.com
 
 ---
 
