@@ -17,16 +17,6 @@ I lead Software development team called as **MONATE** specializing in 𝗙𝘂�
 
 ---
 
-## ComfyUI API Integration Demos
-
-### Kolor + CatVTON
-
-https://github.com/user-attachments/assets/154ae974-1c94-486b-933b-35530c923aec
-
-### Samaritan 3D Cartoon
-
-https://github.com/user-attachments/assets/fe59d94b-18ba-4880-bfa0-5254e611aa41
-
-### Mimic Motion
+## Portfolio site
 
 https://github.com/user-attachments/assets/84c01cf2-4a10-49f3-9b4c-41e1c7115814
